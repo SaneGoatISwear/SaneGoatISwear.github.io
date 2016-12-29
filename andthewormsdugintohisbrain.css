@@ -1,4 +1,16 @@
 blockquote {
     background: rgba(150, 150, 150, 0.90);
     width: 90%;
+    border-radius: 5px;
+    padding-left: 3em;
+    padding-top: 0.5em;
+    font-family: Arial
+}
+
+.moneyitsacrime{
+    background: black;
+    color: white;
+    padding: 3px;
+    border-radius: 3px;
+    border: 1px grey dotted;
 }
