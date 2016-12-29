@@ -13,4 +13,5 @@ blockquote {
     padding: 3px;
     border-radius: 3px;
     border: 1px grey dotted;
+    font-family: Arial;
 }
